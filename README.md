@@ -1,16 +1,88 @@
-## Hi there 👋
+# Hi there, I'm Farhan Goodarzi 👋
 
-<!--
-**MrFarhann/MrFarhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Engineer • React • Next.js • TypeScript
 
-Here are some ideas to get you started:
+I build modern, high-performance web applications with a strong focus on user
+experience, scalability, and clean architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working as a Front-End Engineer, I enjoy transforming complex business
+requirements into intuitive and performant interfaces. I'm passionate about
+writing maintainable code, creating reusable component systems, and continuously
+improving development workflows.
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+- JavaScript
+- TypeScript
+
+### Front-End
+
+- React
+- Next.js
+- Redux Toolkit
+- Zustand
+- React Query (TanStack Query)
+- Axios
+- Tailwind CSS
+- Material UI (MUI)
+- shadcn/ui
+- Framer Motion
+- Recharts
+- React Hook Form
+- Zod
+- TanStack Table
+- React Window
+- React Virtuoso
+
+### Desktop & Real-Time
+
+- Tauri
+- SignalR
+- WebSockets
+
+### Advanced
+
+- WebGL
+- Progressive Web Apps (PWA)
+- TON SDK
+
+### Back-End
+
+- Node.js
+- NestJS
+- REST APIs
+
+### Tools
+
+- Git & GitHub
+- Postman
+- Figma
+- Linux
+
+---
+
+## 💼 What I'm working on
+
+- Building modern React & Next.js applications
+- Designing scalable UI architectures
+- Creating reusable component libraries
+- Performance optimization
+- SEO-friendly web applications
+- Interactive dashboards and data visualization
+
+---
+
+## 🤝 Let's Connect
+
+- 🌐 Portfolio: **http://farhan-goodarzi.vercel.app/**
+- 💼 LinkedIn: **https://www.linkedin.com/in/farhan-goodarzi-a4a264192**
+- 📧 Email: **[farhangodarzi37@gmail.com](mailto:farhangodarzi37@gmail.com)**
+
+---
+
+> _"Great software is not only functional—it is intuitive, maintainable, and
+> enjoyable to use."_
